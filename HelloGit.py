@@ -1,1 +1,2 @@
 print("HelloGit")
+print("NiceGit")
